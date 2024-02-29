@@ -11,4 +11,3 @@ Author:
 - Multiple request: Send many request to one connection. This function I built follow by Persistent connection with pipelining
 
 - Multiple connection: Multiple thread to download many file
-- 
