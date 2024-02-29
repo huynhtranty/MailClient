@@ -1,4 +1,14 @@
-# EmailSender
-- How to build:
-    + Run GenerateProjects.bat
-    + After the .sln file was created, run it using Visual Studio (2022 recommended) and build the project manually.
+# Socket
+## A basic mail client
+Author:
+- Huynh Tran Ty
+- Nguyen Truong Vu
+- Nguyen Quoc Tuong
+## Some function
+- Download single file: Download a specific file with TCP protocol, case content-length or transfer-encoding.
+
+- Send files: Send email with attachment files
+- Multiple request: Send many request to one connection. This function I built follow by Persistent connection with pipelining
+
+- Multiple connection: Multiple thread to download many file
+- 
