@@ -1,0 +1,26 @@
+# Directories
+bin/
+bin-int/
+
+EmailSenderApp/MSG/
+EmailSenderApp/assets/
+EmailSenderApp/Downloads/
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
+# text files
+**.log
+**.msg
+**.txt
+**.pdf
+**.doc
+**.docx
+
+# images
+**.png
+**.jpg
