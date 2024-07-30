@@ -1,5 +1,5 @@
 # CSC10008 (Computer Networking) Project - Mail Client
-Author:
+## Author:
 - Huynh Tran Ty
 - Nguyen Truong Vu
 - Nguyen Quoc Tuong
